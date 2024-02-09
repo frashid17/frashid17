@@ -1,5 +1,4 @@
-Hi there,
-![88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0](https://github.com/frashid17/frashid17/assets/82177473/a520a946-5089-4572-a522-836d68b778cd)
+Hi there,👋🏽
 
 
 I'm Fahim! 
