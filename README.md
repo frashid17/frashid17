@@ -7,19 +7,19 @@ When I'm not in front of my computer, you can find me cycling around Mombasa, Ke
 
  [![Linkedin Badge](https://img.shields.io/badge/-Patrick-informational?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-wanjiku-979381150/) [![Instagram Badge](https://img.shields.io/badge/-fahimuuuu-ff69b4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/fahimuuuu) [![Mail Badge](https://img.shields.io/badge/-Patrick_Mwangi-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:frashid274@gmail.com)
 
-###About Me
+### About Me
 
 🎓 Studying Computer Science
 💻 Interested in software engineering and system analysis
 🚴‍♂️ Hobbies: Cycling, exploring new technologies
 
-###My Interests
+### My Interests
 
 I'm fascinated by the impact of Information Technology on the world. 
 From revolutionizing industries to enabling global connectivity, IT is shaping the future in profound ways. 
 I love diving into discussions about the latest tech trends and how they're transforming our lives.
 
-###Projects
+### Projects
 
 Here are a few projects I've been working on:
 
@@ -31,7 +31,7 @@ Project 3: school management system
 
 Feel free to explore my repositories to see more!
 
-###Get in Touch:
+### Get in Touch:
 
 LinkedIn:https://www.linkedin.com/in/patrick-wanjiku-979381150/
 
