@@ -1,4 +1,7 @@
-Hi there, I'm Fahim! ![88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0](https://github.com/frashid17/frashid17/assets/82177473/a520a946-5089-4572-a522-836d68b778cd)
+Hi there,![88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0](https://github.com/frashid17/frashid17/assets/82177473/a520a946-5089-4572-a522-836d68b778cd)
+
+
+I'm Fahim! 
 I'm a Computer Science student passionate about coding, analyzing systems, and exploring the latest in the tech world. 
 When I'm not in front of my computer, you can find me cycling around Mombasa, Kenya.
 
