@@ -24,7 +24,9 @@ Feel free to explore my repositories to see more!
 
 Get in Touch
 LinkedIn:https://www.linkedin.com/in/patrick-wanjiku-979381150/
+
 Email: frashid274@gmail.com
+
 Let's connect and chat about all things tech! 😊
 
 
