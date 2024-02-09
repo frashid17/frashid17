@@ -18,11 +18,15 @@ Projects
 Here are a few projects I've been working on:
 
 Project 1: POS machine for school project
+
 Project 2: e-commerce site
+
 Project 3: school management system
+
 Feel free to explore my repositories to see more!
 
-Get in Touch
+Get in Touch:
+
 LinkedIn:https://www.linkedin.com/in/patrick-wanjiku-979381150/
 
 Email: frashid274@gmail.com
