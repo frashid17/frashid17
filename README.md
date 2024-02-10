@@ -23,7 +23,7 @@ I love diving into discussions about the latest tech trends and how they're tran
 
 Here are a few projects I've been working on:
 
-Project 1: POS machine for school project
+Project 1: POS system for school project
 
 Project 2: e-commerce site
 
