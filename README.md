@@ -1,52 +1,49 @@
-Hi ,I'm Patrick <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-<hr>
+<h2 align="left">Hi 👋! My name is Patrick</h2>
 
-Hey there,
-I'm a Computer Science student passionate about coding, analyzing systems, and exploring the latest in the tech world. 
-When I'm not in front of my computer, you can find me cycling around Mombasa, Kenya.
+###
 
- [![Linkedin Badge](https://img.shields.io/badge/-Patrick-informational?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-wanjiku-979381150/) [![Instagram Badge](https://img.shields.io/badge/-fahimuuuu-ff69b4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/fahimuuuu) [![Mail Badge](https://img.shields.io/badge/-Patrick_Mwangi-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:frashid274@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frashid17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frashid17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### About Me
+###
 
-🎓 Studying Computer Science
-💻 Interested in software engineering and system analysis
-🚴‍♂️ Hobbies: Cycling, exploring new technologies
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### My Interests
+###
 
-I'm fascinated by the impact of Information Technology on the world. 
-From revolutionizing industries to enabling global connectivity, IT is shaping the future in profound ways. 
-I love diving into discussions about the latest tech trends and how they're transforming our lives.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-### Projects
+###
 
-Here are a few projects I've been working on:
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-Project 1: POS system for school project
+###
 
-Project 2: e-commerce site
+<br clear="both">
 
-Project 3: school management system
+<img src="https://raw.githubusercontent.com/frashid17/frashid17/output/snake.svg" alt="Snake animation" />
 
-Feel free to explore my repositories to see more!
-
-### Get in Touch:
-
-LinkedIn:https://www.linkedin.com/in/patrick-wanjiku-979381150/
-
-Email: frashid274@gmail.com
-
-Let's connect and chat about all things tech! 😊
-
-### Github Stats
-
-![frashid17's Stats](https://github-readme-stats.vercel.app/api?username=frashid17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![frashid17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=frashid17&theme=vue-dark&hide_border=true)
-
-![frashid17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frashid17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-
-
-
+###
