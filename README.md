@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Patrick</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -42,8 +42,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/frashid17/frashid17/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/49d2ny8utbxmo70gwhai5emwn">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=49d2ny8utbxmo70gwhai5emwn&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
