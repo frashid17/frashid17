@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C#,Python,VB.NET<br>🔭 I’m currently working on online Forum system.<br>😀 I like to cycle, code, read, and draw in my free time.<br>💬 Ask me about fountain pens.<br>⚡ Fun fact: My first line of code was not “Hello World!”
+🌱 I’m currently learning Python as a Data Science Language<br>🔭 I’m currently working on online Forum system.<br>😀 I like to cycle, code, read, and draw in my free time.<br>💬 Ask me about fountain pens.<br>⚡ Fun fact: My first line of code was not “Hello World!”
 
 
 ## 🌐 Socials:
