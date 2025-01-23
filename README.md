@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on a job application platform called Fursa, aimed at helping youths in Mombasa find job opportunities. I’m also building out full-stack projects using React Native, Next.js, and Django.<br><br>👯 I’m looking to collaborate on projects related to web and mobile app development, particularly in the areas of job platforms, tech solutions, or anything that aligns with creating positive impact through technology.<br><br>🤝 I’m looking for help with optimizing database architectures and refining my Django backend setup. I’d also love feedback on how to scale apps efficiently.<br><br>🌱 I’m currently learning advanced concepts in React Native, Next.js, and Django, as well as diving deeper into database management and cloud deployment.<br><br>💬 Ask me about coding, system design, technology trends, or my current work with Fursa. I’m always open to discussing tech and sharing knowledge.<br><br>⚡ Fun fact: I recently cycled 122 km with a 1078-meter elevation gain in just under 6 hours! I love combining my passion for coding with outdoor activities.
+🔭 I’m currently working as a Programmatic Ad Operations Engineer, where I focus on optimizing ad campaigns and leveraging technology to drive efficient ad delivery and performance. Alongside this, I’m passionate about building tech solutions and working on impactful projects.  
+
+👯 I’m looking to collaborate on projects that merge technology and creativity, whether in programmatic advertising, web and mobile app development, or innovative tech solutions that solve real-world problems.  
+
+🤝 I’m looking for help with optimizing database architectures, refining backend setups (particularly in Django), and scaling systems efficiently. I’m also keen on exploring advanced automation techniques for ad operations.  
+
+🌱 I’m currently learning advanced concepts in programmatic advertising, as well as deepening my knowledge of React Native, Next.js, Django, and cloud deployment to stay versatile across tech stacks.  
+
+💬 Ask me about programmatic advertising, coding, system design, or my current projects. Whether it’s tech, strategy, or sharing knowledge, I’m always up for a great discussion.  
+
+⚡ Fun fact: I recently cycled 122 km with a 1078-meter elevation gain in just under 6 hours! Outside of tech, I love challenging myself physically and exploring the outdoors.  
 
 
 ## 🌐 Socials:
