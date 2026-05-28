@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Patrick Mwangi
 =======================================================================================================================================
 
-Software Engineer
------------------
+Software Engineer at Yamale Advisory
+------------------------------------
 
 I am a software engineer based in Mombasa, Kenya, with a background in Computer Science. I enjoy building clean, reliable, and user-friendly web applications that solve real problems. Most of my work focuses on modern web technologies, databases, and system design.
 
@@ -15,7 +15,7 @@ My goal is to keep growing as a software engineer, work on impactful products, a
 * 🌍  I'm based in Mombasa, kenya
 * 🖥️  See my portfolio at [Patrick Mwangi](http://patrick-mwangi.vercel.app/)
 * ✉️  You can contact me at [frashid274@gmail.com](mailto:frashid274@gmail.com)
-* 🚀  I'm currently working on [Ecommerce Website for premiume Shisha and vapes](http://mombasashishabongs.com)
+* 🚀  I'm currently working on [An AI legla Platfor](https://yamale-alliance.vercel.app)
 * 👥  I'm looking to collaborate on all things tech
 * 💬  Debugging is my cardio.
 
