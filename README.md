@@ -15,7 +15,7 @@ My goal is to keep growing as a software engineer, work on impactful products, a
 * 🌍  I'm based in Mombasa, kenya
 * 🖥️  See my portfolio at [Patrick Mwangi](http://patrick-mwangi.vercel.app/)
 * ✉️  You can contact me at [frashid274@gmail.com](mailto:frashid274@gmail.com)
-* 🚀  I'm currently working on [An AI legla Platfor](https://yamale-alliance.vercel.app)
+* 🚀  I'm currently working on [An AI legal Platform](https://yamale-alliance.vercel.app)
 * 👥  I'm looking to collaborate on all things tech
 * 💬  Debugging is my cardio.
 
